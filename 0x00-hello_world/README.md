@@ -1,4 +1,4 @@
-Hello, world
+              Hello, world
 
 1.	Write a script that compiles a C file but does not link.
 
@@ -25,4 +25,6 @@ Hello, world
 
 
 6.	Write a C program that prints the size of various types on the computer it is compiled and run on.
+
+
 
